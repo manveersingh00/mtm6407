@@ -6,4 +6,7 @@ You stand at the threshold, looking into the dark abyss of the temple entrance.
 
 What will you do next?
 
+
+- [Enter the temple](enter-temple.md)
+- [Stay outside and explore the surroundings](explore-outside.md)
 - [Go deeper into the temple](deeper-temple.md)
