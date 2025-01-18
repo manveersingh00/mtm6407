@@ -10,3 +10,4 @@ What will you do next?
 - [Stay outside and explore the surroundings](explore-outside.md)
 - [Go deeper into the temple](deeper-temple.md)
 - [Explore the side chamber](side-chamber.md)
+- [Inspect the ancient inscription](ancient-inscription.md)
