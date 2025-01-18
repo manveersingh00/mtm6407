@@ -5,3 +5,5 @@ You are an adventurer who has just arrived at the entrance of a long-forgotten t
 You stand at the threshold, looking into the dark abyss of the temple entrance.
 
 What will you do next?
+
+- [Explore the side chamber](side-chamber.md)
